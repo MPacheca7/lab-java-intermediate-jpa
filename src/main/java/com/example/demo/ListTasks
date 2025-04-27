@@ -1,0 +1,8 @@
+1 -- Realizar operaciones de unión complejas (JOIN) con múltiples tablas no relacionadas
+a nivel de entidad
+
+2 -- Operaciones de base de datos específicas del motor, como funciones y procedimientos almacenados
+
+3 -- Operaciones de manipulación de datos fuera del alcance de las entidades, como (CREATE, DROP y ALTER)
+
+Para trabajar con bases de datos directamente, es mucho mas util y funcional sql nativo.
